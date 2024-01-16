@@ -1,0 +1,17 @@
+.rec{
+    height: 300px;
+    width: 500px;
+    background-color: blue;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+.cir{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: red;
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
